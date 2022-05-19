@@ -83,3 +83,6 @@ _Video_
 
 - scrapy - https://www.youtube.com/watch?v=QdLgNr1mKQU
 - flask - https://www.youtube.com/watch?v=WWVEymSt1iI
+
+
+**Falta Terminar...**

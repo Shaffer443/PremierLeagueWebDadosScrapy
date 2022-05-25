@@ -1,6 +1,12 @@
 <h1>Documentação</h1>
 <h4>Atualizada em: 19/05/2022</h4>
 
+<b>Dados Gerados:</br>
+
+- .json: https://shaffer443.github.io/PremierLeagueWebDadosScrapy/premierleague/premierleague.json
+- .csv:https://shaffer443.github.io/PremierLeagueWebDadosScrapy/premierleague/premierleague.csv
+
+
 **Objetivo:**
 
 <p>Criação de API para captação de determinados dados estatísticos de uma página web, com a premissa de atualização de de web, planilhas e outrso dados estatísticos.</p>
